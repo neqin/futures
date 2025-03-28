@@ -13,10 +13,15 @@ The aim is to offer a standardized way to connect to different exchanges for fut
     *   [Connector Documentation](./connectors/gateio/README.md)
     *   [Official API Documentation](https://www.gate.io/docs/developers/apiv4/en/#futures)
 
-*   **MX.com (xt.com):**
+*   **XT.com:**
+    *   Status: Implemented (Public & Private methods based on provided examples/docs).
+    *   [Connector Documentation](./connectors/xt/README.md)
+    *   [Official API Documentation Reference](xt2.txt) *(Note: Based on provided file)*
+
+*   **MX.com (MEXC):**
     *   Status: Placeholder only. Implementation pending.
     *   [Connector Directory](./connectors/mx/)
-    *   [Official API Documentation](https://doc.xt.com/) 
+    *   [Official API Documentation](https://mxcdevelop.github.io/apidocs/contract_v1/en/) *(Note: Reverted to MEXC link)*
 
 ## Getting Started
 
